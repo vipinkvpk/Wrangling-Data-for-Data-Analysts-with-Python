@@ -1,0 +1,1 @@
+response = requests.get('https://www.quandl.com/api/v3/datasets/FSE/AFX_X.json?&start_date=2019-01-01&end_date=2019-01-01&api_key='+apiKey)
